@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**melosare/melosare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Mel
 
-Here are some ideas to get you started:
+I work at the intersection of machine learning, statistical modeling, software architecture, and business strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core areas of focus
+
+- **ML Systems Engineering**: Reproducible training pipelines, model serving, testing, deployment, and production-oriented architecture.
+- **Causal Inference & Decision Science**: Bayesian modeling, treatment-effect estimation, counterfactual analysis, and constrained optimization.
+- **Data & AI Architecture**: Scalable systems and multi-source data integration.
+- **Technical Leadership**: Technical standards and alignment between engineering investments and business outcomes.
+      
+My public projects explore these disciplines through documented, testable implementations. De-identified demonstrations using synthetic data are explicitly identified as such. They are intended to illustrate system design and methodological choices based on delivered production systems I've developed.
+
+
