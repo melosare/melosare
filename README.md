@@ -17,9 +17,8 @@ My public projects explore these disciplines through documented, testable implem
 
 ```txt
 Languages      Python · C/C++ · Java · JavaScript
-Tools          Docker · Spark/PySpark · Tensorflow · Plotly Dash · Streanlit
+Tools          Docker · Spark/PySpark · Tensorflow · Plotly Dash 
 ```
 
-> Building without boundaries...
 
 
